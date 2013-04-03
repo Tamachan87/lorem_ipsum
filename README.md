@@ -3,5 +3,7 @@ A simple gem that generates paragraphs of lorem dummy text using a single line o
 
 ## Usage
 To use the lorem_ipsum gem, just require it and add the following line to your .erb file.
+
     <%= Lorem.para(1) %>
+
 And, hey presto! A single paragraph of lorem text appears! Add as many or as little paragraphs as you need.
